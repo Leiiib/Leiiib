@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXA4a3ZyZXFqbnB1YzJrbDVrZndwMGFxem9vY2JneXBsNzQ3NHdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H1YWpySI6Gm8UiZTAb/giphy.gif"  />
+  <img height="150" src="giphy.gif"  />
 </div>
 
 ###
@@ -75,6 +75,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leiiib&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Leiiib/Leiiib/output/snake.svg" alt="Snake animation" />
 
 ###
 
