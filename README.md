@@ -78,7 +78,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Leiiib/Leiiib/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Leiib/Leiib/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
