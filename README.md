@@ -26,7 +26,7 @@
 
 ###
 
-<h6 align="left">I'm a spanish developer!<br><br>- 📚 I'm currently learning python<br>- ⚡ I have worked with: <br>‎ ‎ ‎ ‎ ‎ ‎ › Minecraft clients, mods and plugins.<br>‎ ‎ ‎ ‎ ‎ ‎ › Simple python projects<br>‎ ‎ ‎ ‎ ‎ ‎ › Simple web development</h6>
+<p align="left">I'm a spanish developer!<br><br>- 📚 I'm currently learning python<br>- ⚡ I have worked with: <br>‎ ‎ ‎ ‎ ‎ ‎ › Minecraft clients, mods and plugins.<br>‎ ‎ ‎ ‎ ‎ ‎ › Simple python projects<br>‎ ‎ ‎ ‎ ‎ ‎ › Simple web development</p>
 
 ###
 
