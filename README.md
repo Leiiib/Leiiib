@@ -66,6 +66,10 @@
 
 ###
 
+[![Leiiib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leiiib)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Leiiib.Leiiib&left_color=burlywood&left_text=Outsiders"  />
 </div>
