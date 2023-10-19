@@ -66,22 +66,6 @@
 
 ###
 
-<h3 align="left">My 💩 stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leiiib&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-</div>
-
-###
-
-<img src="https://github.com/Leiiib/Leiiib/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Leiiib.Leiiib&left_color=burlywood&left_text=Outsiders"  />
 </div>
