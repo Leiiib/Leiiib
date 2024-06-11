@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a spanish developer!<br><br>- 📚 I'm currently learning python<br>- ⚡ I have worked with: <br>‎ ‎ ‎ ‎ ‎ ‎ › Minecraft clients, mods and plugins.<br>‎ ‎ ‎ ‎ ‎ ‎ › Simple python projects<br>‎ ‎ ‎ ‎ ‎ ‎ › Simple web development</p>
+<p align="left">I'm a spanish developer!<br><br>- 📚 I'm currently learning python <br>- ☕ 3+ years Java experience / soon switching to Kotlin<br>- ⚡ I have worked with: <br>‎ ‎ ‎ ‎ ‎ ‎ › Minecraft clients, mods and plugins.<br>‎ ‎ ‎ ‎ ‎ ‎ › Simple python projects<br>‎ ‎ ‎ ‎ ‎ ‎ › Simple web development</p>
 
 ###
 
